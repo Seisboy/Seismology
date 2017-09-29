@@ -6,5 +6,6 @@
 - [numENZ.pl](https://github.com/seisboy/Seismology/blob/master/Receiver%20Function/numENZ.pl)：检测ENZ三分量的数目
 
 - [runnumENZ.pl](https://github.com/seisboy/Seismology/blob/master/Receiver%20Function/runnumENZ.pl)：配合[numENZ.pl](https://github.com/seisboy/Seismology/blob/master/Receiver%20Function/numENZ.pl)使用
-## F-K
-## Sod
+## funclab
+接收函数处理过程的matlab脚本
+- [Notes](https://github.com/seisboy/Seismology/blob/master/funclab/Notes)：仅仅是笔记
