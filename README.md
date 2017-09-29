@@ -8,4 +8,4 @@
 - [runnumENZ.pl](https://github.com/seisboy/Seismology/blob/master/Receiver%20Function/runnumENZ.pl)：配合[numENZ.pl](https://github.com/seisboy/Seismology/blob/master/Receiver%20Function/numENZ.pl)使用
 ## funclab
 funclab是用于接收函数处理过matlab程序，研究ing
-- [Notes](https://github.com/seisboy/Seismology/blob/master/funclab/Notes)：仅仅是笔记
+- [Notes.md](https://github.com/seisboy/Seismology/blob/master/funclab/Notes.md)：仅仅是笔记
