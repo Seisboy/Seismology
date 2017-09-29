@@ -1,5 +1,6 @@
 # 使用funclab程序时的一些笔记
-- 确保`funclab1.8.0_without_map_data`这一目录以及子目录在matlab的路径下，至少包含`funclab1.8.0_without_map_data/processRFmatlab`和`funclab1.8.0_without_map_data/utilities`这两个目录；
+- 确保`funclab1.8.0_without_map_data`这一目录以及子目录在matlab的路径下，至少包含
+`funclab1.8.0_without_map_data/processRFmatlab`和`funclab1.8.0_without_map_data/utilities`这两个目录；
 - 在运行程序时确保自己在`funclab1.8.0_without_map_data/processRFmatlab/example_scriptsz`这一路径下；
 - 确保P波到时（比如标记为`t0`）的标签为`P`，这个理论上是可以改变的，不过我还没有更改源码。
 通过taup标记的到时满足条件：
