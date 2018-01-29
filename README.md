@@ -17,8 +17,11 @@ Codes and notes used in my research of seismology :eyes:
     _Deconvolution (SRFs)_
     _Underdevelopment_
 - [script02_checkPrfns.m](https://github.com/seisboy/Seismology/blob/master/funclab/script02_checkPrfns.m)
-    _Quality control_
-    _Same with source code_
-    _`STATION_PREFIX` is correspond with `net`_
+
+    * _Quality control_
+
+    * _Same with source code_
+
+    * _`STATION_PREFIX` is correspond with `net`_
 - [script03a_plotGatherTimeStacks.m](https://github.com/seisboy/Seismology/blob/master/funclab/script03a_plotGatherTimeStacks.m): Underdevelopment.
 - [script03b_plotGatherDepthStacks.m](https://github.com/seisboy/Seismology/blob/master/funclab/script3b_plotGatherDepthStacks.m): Underdevelopment.
